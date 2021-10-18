@@ -1,0 +1,40 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "services": "Surgical",
+            "des": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques ",
+            "img": "https://i.ibb.co/8zT7tKP/su.png"
+        },
+        {
+            "id": 2,
+            "services": "Cardiology",
+            "des": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+            "img": "https://i.ibb.co/G9Bdht8/carr.png"
+        },
+        {
+            "id": 3,
+            "services": "Dental",
+            "des": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. ",
+            "img": "https://i.ibb.co/tK8sphG/dental.png"
+        },
+        {
+            "id": 4,
+            "services": "X-ray",
+            "des": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body.",
+            "img": "https://i.ibb.co/jJfqgTW/x-ray.png"
+        },
+        {
+            "id": 5,
+            "services": "Opthalmology",
+            "des": "Ophthalmologists diagnose and treat injuries, infections, diseases, and disorders of the eye. ",
+            "img": "https://i.ibb.co/pQNShjy/op.png"
+        },
+        {
+            "id": 6,
+            "services": "Neurology",
+            "des": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system.",
+            "img": "https://i.ibb.co/L0mrN1s/nu.png"
+        }
+    ]
+}
