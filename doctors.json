@@ -1,0 +1,32 @@
+{
+    "doctors": [
+        {
+            "id": 1,
+            "name": "Dr. Lloyd Wilson",
+            "title": "NEUROLOGIST",
+            "des": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+            "img": "https://preview.colorlib.com/theme/mediplus/images/xdoc-1.jpg.pagespeed.ic.myvVwp80RP.webp"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Rachel Parker",
+            "title": "OPHTHALMOLOGIST",
+            "des": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+            "img": "https://preview.colorlib.com/theme/mediplus/images/xdoc-2.jpg.pagespeed.ic.2QUsxWkZeQ.webp"
+        },
+        {
+            "id": 3,
+            "name": "Dr. Ian Smith",
+            "title": "DENTIST",
+            "des": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+            "img": "https://preview.colorlib.com/theme/mediplus/images/xdoc-3.jpg.pagespeed.ic.ssPmw2cMao.webp"
+        },
+        {
+            "id": 4,
+            "name": "Dr. Alicia Henderson",
+            "title": "PEDIATRICIAN",
+            "des": "I am an ambitious workaholic, but apart from that, pretty simple person.",
+            "img": "https://preview.colorlib.com/theme/mediplus/images/xdoc-4.jpg.pagespeed.ic.7oxaXGL52E.webp"
+        }
+    ]
+}
